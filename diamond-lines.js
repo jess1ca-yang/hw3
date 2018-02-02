@@ -1,6 +1,6 @@
-var counter = 1;
-var xOne = 170
-var xTwo = 170
+var counter = 2;
+var xOne = 169
+var xTwo = 171
 while(counter < 160) {
   line(xOne, counter, xTwo, counter)
   counter = counter + 10;
